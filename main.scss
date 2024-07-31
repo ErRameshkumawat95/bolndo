@@ -1,0 +1,11 @@
+
+@import"header";
+@import"variables";
+@import"contents";
+@import"footer";
+@import"mixin";
+$primary-font-family:'Manrope', sans-serif;
+$secondary-font-family:'Open Sans', sans-serif;
+img{
+    max-width: 100%;
+}
